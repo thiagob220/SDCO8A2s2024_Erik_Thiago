@@ -1,8 +1,8 @@
 /**
  * Lab0: Leitura de Base de Dados Não-Distribuida
  * 
- * Autor: Lucio A. Rocha
- * Ultima atualizacao: 20/02/2023
+ * Autor: Erik Noda e Thiago Berto Minson
+ * Ultima atualizacao: 25/10/2024
  * 
  * Referencias: 
  * https://docs.oracle.com/javase/tutorial/essential/io
