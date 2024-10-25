@@ -26,8 +26,8 @@ public class Servidor {
 			saida = new DataOutputStream(socket.getOutputStream());
 
 			// Recebimento do valor inteiro
-			int valor = entrada.readInt();
-			System.out.println(valor);
+			// int valor = entrada.readInt();
+			// System.out.println(valor);
 
 			// Processamento do valor
 			String resultado = "";
